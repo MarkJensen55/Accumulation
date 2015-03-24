@@ -27,6 +27,7 @@ namespace Accumulation
             DateTime endDate4 = new DateTime(2019, 12, 31);
             DateTime endDate5 = new DateTime(2024, 12, 31);
 
+            // var totalDays = (endDate5 - currentDate).TotalDays;
             //for (DateTime i = startDate; i <  endDate1;  i.AddDays(1))
             //{
             //    accountBalance += deposit;
