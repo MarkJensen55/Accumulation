@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\bin\Debug\Accumulation.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\bin\Debug\Accumulation.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\bin\Debug\Accumulation.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\obj\Debug\Accumulation.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\obj\Debug\Accumulation.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Accumulation\Accumulation\obj\Debug\Accumulation.pdb
